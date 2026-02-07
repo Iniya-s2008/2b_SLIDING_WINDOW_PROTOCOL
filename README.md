@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM:
-To implement python program to perform stop and wait protocol
+To implement python program to perform sliding window protocol
 
 ## ALGORITHM:
 1. Start the program.
@@ -43,4 +43,4 @@ while True:
 <img width="1037" height="253" alt="image" src="https://github.com/user-attachments/assets/51bb931e-df79-43c0-8071-240259fee05b" />
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform sliding window protocol was successfully executed
